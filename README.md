@@ -1,4 +1,4 @@
-# ROCO 504 Advanced Robot Design
+# ROCO504 Advanced Robot Design
 Repository for the ROCO504 module autumn 2016 at Plymouth University, UK.
 
 Part of the MEng(Hons) Robotics programme in the School of Computing, Electronics and Mathematics.
