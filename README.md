@@ -1,6 +1,8 @@
 # ROCO504 Advanced Robot Design
 Repository for the ROCO504 module autumn 2016 at Plymouth University, UK.
 
+Get started in the wiki: https://github.com/mstoelen/ROCO504-2016/wiki
+
 Part of the MEng(Hons) Robotics programme in the School of Computing, Electronics and Mathematics.
 
 Module leader: Dr. Martin F. Stoelen
