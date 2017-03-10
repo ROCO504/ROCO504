@@ -10,7 +10,7 @@ Module leader: Dr. Martin F. Stoelen
 **NEW:** See YouTube video of the 2016 student presentations here: https://youtu.be/dNeIgsX8clE?t=22s
 
 **NEW:** See 2016 project repositories here (in progress):
-* Variable stiffness hand: Projecthttps://github.com/ROCO504/2016-group2
+* Variable stiffness hand: Project: https://github.com/ROCO504/2016-group2
 * Throwing arm with elastic energy storage: https://github.com/ROCO504/2016-group4
 * Variable stiffness robot snake: https://github.com/JaneSheard/roco504
 
