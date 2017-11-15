@@ -8,7 +8,7 @@ Part of the MEng(Hons) Robotics programme in the School of Computing, Electronic
 Module leader: Dr. Martin F. Stoelen
 
 **NEW:** 2017 projects in progress:
-* 3D-printable jumping robot
+* 3D printable jumping robot
 * Cable-driven catching robot
 * Variable viscosity coupling
 
