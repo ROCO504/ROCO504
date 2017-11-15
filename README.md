@@ -8,9 +8,9 @@ Part of the MEng(Hons) Robotics programme in the School of Computing, Electronic
 Module leader: Dr. Martin F. Stoelen
 
 **NEW:** 2017 projects in progress:
-* Jumping robot
+* 3D-printable jumping robot
 * Cable-driven catching robot
-* Variable viscous coupling
+* Variable viscosity coupling
 
 **NEW:** Two 2016 projects published at TAROS and Living Machines conferences:
 * https://www.researchgate.net/publication/318539409_Soft_Robotic_Snake_with_Variable_Stiffness_Actuation
