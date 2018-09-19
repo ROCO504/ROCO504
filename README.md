@@ -10,6 +10,7 @@ Module leader: Dr. Martin F. Stoelen
 **Videos:**
 
 Video compilation of 2017 showcase: https://www.youtube.com/watch?v=xqruJ1FyzUE&list=PLTkCi49ERnh1QY0Xhd7fVLY_t7v-R_iSr
+
 See 2016 student presentations here: https://youtu.be/dNeIgsX8clE?t=22s
 
 **Projects:**
@@ -26,12 +27,10 @@ See 2016 student presentations here: https://youtu.be/dNeIgsX8clE?t=22s
 * Throwing arm with elastic energy storage (Group 4): https://github.com/ROCO504/2016-group4
 * Variable stiffness robot snake (Group 3): https://github.com/JaneSheard/roco504
 
-**NEWS:** 
+**News:** 
 
 The 2017 "Bouncebot" project published at TAROS 2018 conference:
 * https://link.springer.com/chapter/10.1007/978-3-319-96728-8_5
-
-**NEWS:** 
 
 Two 2016 projects published at TAROS and Living Machines conferences:
 * https://www.researchgate.net/publication/318539409_Soft_Robotic_Snake_with_Variable_Stiffness_Actuation
