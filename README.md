@@ -7,7 +7,7 @@ Part of the MEng(Hons) Robotics programme in the School of Computing, Electronic
 
 Module leader: Dr. Martin F. Stoelen
 
-[![Video compilation of 2017 showcase](https://www.youtube.com/watch?v=xqruJ1FyzUE&list=PLTkCi49ERnh1QY0Xhd7fVLY_t7v-R_iSr)](https://www.youtube.com/watch?v=xqruJ1FyzUE&list=PLTkCi49ERnh1QY0Xhd7fVLY_t7v-R_iSr)
+[![Video compilation of 2017 showcase](https://img.youtube.com/vi/xqruJ1FyzUE/0.jpg)](https://youtu.be/xqruJ1FyzUE)
 
 **Showcases:**
 
