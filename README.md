@@ -10,9 +10,9 @@ Module leader: Dr. Martin F. Stoelen
 See YouTube video of the 2016 student presentations here: https://youtu.be/dNeIgsX8clE?t=22s
 
 See 2017 project repositories here:
-* 3D printable jumping robot
-* Cable-driven catching robot
-* Variable viscosity coupling
+* "Bouncebot" 3D printable jumping robot:
+* Cable-driven catching robot: 
+* Variable viscosity coupling: 
 
 See 2016 project repositories here:
 * Variable stiffness hand (Group 2): https://github.com/ROCO504/2016-group2
@@ -20,8 +20,11 @@ See 2016 project repositories here:
 * Variable stiffness robot snake (Group 3): https://github.com/JaneSheard/roco504
 
 **NEWS:** 
+
 The 2017 "Bouncebot" project published at TAROS 2018 conference:
 * https://link.springer.com/chapter/10.1007/978-3-319-96728-8_5
+
+**NEWS:** 
 
 Two 2016 projects published at TAROS and Living Machines conferences:
 * https://www.researchgate.net/publication/318539409_Soft_Robotic_Snake_with_Variable_Stiffness_Actuation
