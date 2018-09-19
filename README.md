@@ -7,14 +7,21 @@ Part of the MEng(Hons) Robotics programme in the School of Computing, Electronic
 
 Module leader: Dr. Martin F. Stoelen
 
-See YouTube video of the 2016 student presentations here: https://youtu.be/dNeIgsX8clE?t=22s
+**Videos:**
 
-See 2017 project repositories here:
-* "Bouncebot" 3D printable jumping robot:
-* Cable-driven catching robot: 
-* Variable viscosity coupling: 
+Video compilation of 2017 showcase: https://www.youtube.com/watch?v=xqruJ1FyzUE&list=PLTkCi49ERnh1QY0Xhd7fVLY_t7v-R_iSr
+See 2016 student presentations here: https://youtu.be/dNeIgsX8clE?t=22s
 
-See 2016 project repositories here:
+**Projects:**
+
+2017
+
+* "Bouncebot" 3D printable jumping robot:https://link.springer.com/chapter/10.1007/978-3-319-96728-8_5
+* Cable-driven catching robot: https://github.com/ROCO504/2017-group2
+* Variable viscosity coupling
+
+2016
+
 * Variable stiffness hand (Group 2): https://github.com/ROCO504/2016-group2
 * Throwing arm with elastic energy storage (Group 4): https://github.com/ROCO504/2016-group4
 * Variable stiffness robot snake (Group 3): https://github.com/JaneSheard/roco504
