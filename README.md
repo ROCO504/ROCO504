@@ -10,7 +10,7 @@ Module leader: Dr. Martin F. Stoelen
 
 ## Projects:
 
-2018
+###2018
 
 * Group 1: Active Robot Fall-Absorption Mechanism
   * https://github.com/ROCO504/2018-Group1
@@ -53,13 +53,13 @@ Module leader: Dr. Martin F. Stoelen
   * https://github.com/ROCO504/2018-Group8
   * Yiannis Philippou
 
-2017
+###2017
 
 * "Bouncebot" 3D printable jumping robot:https://link.springer.com/chapter/10.1007/978-3-319-96728-8_5
 * Cable-driven catching robot: https://github.com/ROCO504/2017-group2
 * Variable viscosity coupling
 
-2016
+###2016
 
 * Variable stiffness hand (Group 2): https://github.com/ROCO504/2016-group2
 * Throwing arm with elastic energy storage (Group 4): https://github.com/ROCO504/2016-group4
