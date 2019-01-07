@@ -19,6 +19,41 @@ See 2016 student presentations here:
 
 **Projects:**
 
+2018
+
+* Group 1: Active Robot Fall-Absorption Mechanism
+  * Luka Danilovic
+  * Mason Carter
+  * Elliott White
+  
+* Group 2: Mine Detonating Sphere-Bot
+  * Charlie Freestone
+  * Rebecca Harding
+  
+* Group 3: Eduardo the Hair-Combing Robot
+  * Oliver Smith
+  * Sam White
+
+* Group 4: Prosthetic Drop-Foot Assistance Device
+  * James Dickson 
+  
+* Group 5: Soft Jamming Robotic Gripper
+  * Douglas Tilley
+  * Liam Grazier
+  
+* Group 6: Variable-Stiffness Prosthetic Thumb
+  * Yasmin Bragg
+  * Christian Berry
+  
+* Group 7: Soft Guided Glider
+  * Connor Crabb-Thomson
+  * Andrew Brown
+  * Jeremy May
+  * Mark Campbell 
+  
+* Group 8: Reinforced Composite TCP Variable-Stiffness Actuator
+  * Yiannis Philippou
+
 2017
 
 * "Bouncebot" 3D printable jumping robot:https://link.springer.com/chapter/10.1007/978-3-319-96728-8_5
