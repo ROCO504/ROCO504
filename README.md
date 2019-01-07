@@ -7,7 +7,7 @@ Part of the MEng(Hons) Robotics programme in the School of Computing, Electronic
 
 Module leader: Dr. Martin F. Stoelen
 
-**Showcases:**
+## Showcases:
 
 Video compilation of 2017 showcase: 
 
@@ -17,7 +17,7 @@ See 2016 student presentations here:
 
 [![Video compilation of 2017 showcase](https://img.youtube.com/vi/dNeIgsX8clE/0.jpg)](https://youtu.be/dNeIgsX8clE?t=22s)
 
-**Projects:**
+## Projects:
 
 2018
 
@@ -74,7 +74,7 @@ See 2016 student presentations here:
 * Throwing arm with elastic energy storage (Group 4): https://github.com/ROCO504/2016-group4
 * Variable stiffness robot snake (Group 3): https://github.com/JaneSheard/roco504
 
-**News:** 
+## News:
 
 The 2017 "Bouncebot" project published at TAROS 2018 conference:
 * https://link.springer.com/chapter/10.1007/978-3-319-96728-8_5
