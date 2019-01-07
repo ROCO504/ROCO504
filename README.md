@@ -22,36 +22,44 @@ See 2016 student presentations here:
 2018
 
 * Group 1: Active Robot Fall-Absorption Mechanism
+  * https://github.com/ROCO504/2018-Group1
   * Luka Danilovic
   * Mason Carter
   * Elliott White
   
 * Group 2: Mine Detonating Sphere-Bot
+  * https://github.com/ROCO504/2018-Group2
   * Charlie Freestone
   * Rebecca Harding
   
 * Group 3: Eduardo the Hair-Combing Robot
+  * https://github.com/ROCO504/2018-Group3
   * Oliver Smith
   * Sam White
 
 * Group 4: Prosthetic Drop-Foot Assistance Device
+  * https://github.com/ROCO504/2018-Group4
   * James Dickson 
   
 * Group 5: Soft Jamming Robotic Gripper
+  * https://github.com/ROCO504/2018-Group5
   * Douglas Tilley
   * Liam Grazier
   
 * Group 6: Variable-Stiffness Prosthetic Thumb
+  * https://github.com/ROCO504/2018-Group6
   * Yasmin Bragg
   * Christian Berry
   
 * Group 7: Soft Guided Glider
+  * https://github.com/ROCO504/2018-Group7
   * Connor Crabb-Thomson
   * Andrew Brown
   * Jeremy May
   * Mark Campbell 
   
 * Group 8: Reinforced Composite TCP Variable-Stiffness Actuator
+  * https://github.com/ROCO504/2018-Group8
   * Yiannis Philippou
 
 2017
